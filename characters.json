@@ -1,0 +1,260 @@
+[
+    {
+        "name": "Amber",
+        "element": "PYRO",
+        "weapon": "BOW",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Barbara",
+        "element": "HYDRO",
+        "weapon": "CATALYST",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Beidou",
+        "element": "ELECTRO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Bennett",
+        "element": "PYRO",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Diluc",
+        "element": "PYRO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Fischl",
+        "element": "ELECTRO",
+        "weapon": "BOW",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Jean",
+        "element": "ANEMO",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Kaeya",
+        "element": "CRYO",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Lisa",
+        "element": "ELECTRO",
+        "weapon": "CATALYST",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Noelle",
+        "element": "GEO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Razor",
+        "element": "ELECTRO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Sucrose",
+        "element": "ANEMO",
+        "weapon": "CATALYST",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Venti",
+        "element": "ANEMO",
+        "weapon": "BOW",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Mona",
+        "element": "HYDRO",
+        "weapon": "CATALYST",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Chongyun",
+        "element": "CRYO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Keqing",
+        "element": "ELECTRO",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Ningguang",
+        "element": "GEO",
+        "weapon": "CATALYST",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Qiqi",
+        "element": "CRYO",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Xiangling",
+        "element": "PYRO",
+        "weapon": "POLEARM",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Xingqiu",
+        "element": "HYDRO",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    },
+    {
+        "name": "Xinyan",
+        "element": "PYRO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2020-11-11"
+    },
+    {
+        "name": "Zhongli",
+        "element": "GEO",
+        "weapon": "POLEARM",
+        "releaseDate": "2020-12-01"
+    },
+    {
+        "name": "Ganyu",
+        "element": "CRYO",
+        "weapon": "BOW",
+        "releaseDate": "2021-01-12"
+    },
+    {
+        "name": "Hu Tao",
+        "element": "PYRO",
+        "weapon": "POLEARM",
+        "releaseDate": "2021-03-02"
+    },
+    {
+        "name": "Kazuha",
+        "element": "ANEMO",
+        "weapon": "SWORD",
+        "releaseDate": "2021-06-29"
+    },
+    {
+        "name": "Ayaka",
+        "element": "CRYO",
+        "weapon": "SWORD",
+        "releaseDate": "2021-07-21"
+    },
+    {
+        "name": "Yoimiya",
+        "element": "PYRO",
+        "weapon": "BOW",
+        "releaseDate": "2021-08-10"
+    },
+    {
+        "name": "Sayu",
+        "element": "ANEMO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2021-08-10"
+    },
+    {
+        "name": "Raiden Shogun (Baal)",
+        "element": "ELECTRO",
+        "weapon": "POLEARM",
+        "releaseDate": "2021-09-01"
+    },
+    {
+        "name": "Kujou Sara",
+        "element": "ELECTRO",
+        "weapon": "BOW",
+        "releaseDate": "2021-09-01"
+    },
+    {
+        "name": "Kokomi",
+        "element": "HYDRO",
+        "weapon": "CATALYST",
+        "releaseDate": "2021-09-21"
+    },
+    {
+        "name": "Thoma",
+        "element": "PYRO",
+        "weapon": "POLEARM",
+        "releaseDate": "2021-11-02"
+    },
+    {
+        "name": "Itto",
+        "element": "GEO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2021-12-14"
+    },
+    {
+        "name": "Gorou",
+        "element": "GEO",
+        "weapon": "BOW",
+        "releaseDate": "2021-12-14"
+    },
+    {
+        "name": "Tighnari",
+        "element": "DENDRO",
+        "weapon": "BOW",
+        "releaseDate": "2022-08-24"
+    },
+    {
+        "name": "Collei",
+        "element": "DENDRO",
+        "weapon": "BOW",
+        "releaseDate": "2022-08-24"
+    },
+    {
+        "name": "Dori",
+        "element": "ELECTRO",
+        "weapon": "CLAYMORE",
+        "releaseDate": "2022-09-28"
+    },
+    {
+        "name": "Cyno",
+        "element": "ELECTRO",
+        "weapon": "POLEARM",
+        "releaseDate": "2022-09-28"
+    },
+    {
+        "name": "Nilou",
+        "element": "HYDRO",
+        "weapon": "SWORD",
+        "releaseDate": "2022-10-14"
+    },
+    {
+        "name": "Nahida",
+        "element": "DENDRO",
+        "weapon": "CATALYST",
+        "releaseDate": "2022-11-02"
+    },
+    {
+        "name": "Layla",
+        "element": "CRYO",
+        "weapon": "SWORD",
+        "releaseDate": "2022-11-02"
+    },
+    {
+        "name": "Aloy",
+        "element": "CRYO",
+        "weapon": "BOW",
+        "releaseDate": "2021-10-01"
+    },
+    {
+        "name": "Traveler",
+        "element": "ALL",
+        "weapon": "SWORD",
+        "releaseDate": "2020-09-28"
+    }
+]
